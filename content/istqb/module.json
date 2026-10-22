@@ -1,0 +1,8 @@
+{
+  "id": "istqb",
+  "title": "ISTQB-тренер",
+  "description": "Подготовка к ISTQB Foundation Level: викторины по темам Syllabus v4.0 и пробные экзамены с таймером",
+  "icon": "ClipboardCheck",
+  "accentColor": "#2DD4BF",
+  "lessonCount": 12
+}
